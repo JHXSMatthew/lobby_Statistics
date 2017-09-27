@@ -1,0 +1,4 @@
+name: lobbyStatistics
+main: com.mcndsj.Lobby_Statistics.lobby_Statistics
+version: 0.0.1-SNAPSHOT
+depend: [SQL_lib]
